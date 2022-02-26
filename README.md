@@ -1,1 +1,1 @@
-Ola eu sou a luizatrocino
+Olá, pessoal! Sou a Luiza Trocino. Sejam bem-vindos :) 
