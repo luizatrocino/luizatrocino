@@ -1,10 +1,20 @@
-<h3> Olá, pessoal! Sou a Luiza Trocino. </h3>
+# Olá, pessoal! Sou a Luiza Trocino. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizatrocino/)](https://www.linkedin.com/in/luizatrocino/)
 
-<h4> Sejam bem-vindos! :) </h4>
+### About me
 
-<h3> Tecnologias: </h3>
+👩🏼‍🎓 Formada em Engenharia Civil pela UNICAMP. Prêmio CREA-SP de melhor aluna do curso (2S/2020).
+
+📚 Gama Academy - XP41 - Full Stack Web Developer
+
+
+
+
+### Sejam bem-vindos! :)
+
+
+### Tecnologias:
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5" width="36px" /> 
