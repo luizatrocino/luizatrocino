@@ -1,7 +1,5 @@
 <h3> Olá, pessoal! Sou a Luiza Trocino. </h3>
 
-<p> Me siga no LinkedIn: </p> 
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizatrocino/)](https://www.linkedin.com/in/luizatrocino/)
 
 <h4> Sejam bem-vindos! :) </h4>
