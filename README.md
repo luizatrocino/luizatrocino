@@ -1,10 +1,10 @@
 <h3> Olá, pessoal! Sou a Luiza Trocino. </h3>
 
+<p> Me siga no LinkedIn: </p> 
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizatrocino/)](https://www.linkedin.com/in/luizatrocino/)
 
 <h4> Sejam bem-vindos! :) </h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizatrocino&label=Profile%20views&color=0e75b6&style=flat" alt="franciscpd" /> </p>
 
 <h3> Tecnologias: </h3>
 
@@ -15,11 +15,9 @@
 </p>
 <br>
 
-<p><img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizatrocino&show_icons=true&locale=en&layout=compact" alt="franciscpd" /></p>
+<p><img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizatrocino&show_icons=true&locale=en&layout=compact" alt="luizatrocino" /></p>
 
-<p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizatrocino&theme=onedark&row=1&margin-w=5" alt="franciscpd" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizatrocino&layout=compact" alt="franciscpd" /></p>
 
 
 
