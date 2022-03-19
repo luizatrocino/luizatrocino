@@ -1,4 +1,4 @@
-# Olá, pessoal! Sou a Luiza Trocino. 
+# Olá, pessoal! 👋 Sou a Luiza Trocino. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizatrocino/)](https://www.linkedin.com/in/luizatrocino/)
 
@@ -8,10 +8,10 @@
 
 📚 Gama Academy - XP41 - Full Stack Web Developer
 
+🎬 Amante de séries, filmes e esportes
 
 
-
-### Sejam bem-vindos! :)
+### Sejam bem-vindes!
 
 
 ### Tecnologias:
