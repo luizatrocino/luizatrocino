@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizatrocino/)](https://www.linkedin.com/in/luizatrocino/)
 
 
-👩🏼‍🎓 Degree in Civil Engineering in UNICAMP. Prêmio CREA-SP de melhor aluna do curso (2S/2020).
+👩🏼‍🎓 Degree in Civil Engineering in UNICAMP. CREA-SP Award for Best Student of the course (2S/2020).
 
 📚 Gama Academy - XP41 - FullStack Developer
 
-🎬 Amante de séries, filmes e esportes
+🎬 A lover of movies, books and sports
 
 Pronouns: She/Her
 
