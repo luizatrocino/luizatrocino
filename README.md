@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizatrocino/)](https://www.linkedin.com/in/luizatrocino/)
 
 
-👩🏼‍🎓 Degree in Civil Engineering in UNICAMP. CREA-SP Award for Best Student of the course (2S/2020).
+👩🏼‍🎓 Degree in Civil Engineering in UNICAMP.
 
-📚 Gama Academy - XP41 - FullStack Developer
+📚 Gama Academy - XP41 - FullStack Developer (Backed focused) | #ElasTech Pagseguro - Backend Java
 
 🎬 A lover of movies, books and sports
 
