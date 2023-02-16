@@ -5,7 +5,9 @@
 
 👩🏼‍🎓 Degree in Civil Engineering in UNICAMP
 
-📚 Gama Academy - XP41 - FullStack Developer (Backed focused) | #ElasTech Pagseguro - Backend Java | MBA USP Esalq - Data Science & Analytics
+📚 Gama Academy - XP41 - FullStack Developer (Backed focused) | 
+   #ElasTech Pagseguro - Backend Java | 
+   MBA USP Esalq - Data Science & Analytics
 
 🎬 A lover of movies, books and sports
 
