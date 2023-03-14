@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizatrocino/)](https://www.linkedin.com/in/luizatrocino/)
 
+Software engineer at @PagBank PagSeguro
 
 👩🏼‍🎓 Degree in Civil Engineering in UNICAMP
 
